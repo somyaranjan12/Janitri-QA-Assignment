@@ -1,0 +1,4 @@
+com\janitri\pages\BasePage.class
+com\janitri\pages\LoginPage.class
+com\janitri\config\ConfigurationManager.class
+com\janitri\utils\DriverFactory.class
